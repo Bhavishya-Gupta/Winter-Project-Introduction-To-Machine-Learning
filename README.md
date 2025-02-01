@@ -172,4 +172,15 @@ https://youtu.be/sN5ZcJLDMaE?si=IkOe83jPES8QYgBF
 - Random Forests explained in more detail:
 https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&ab_channel=StatQuestwithJoshStarmer
 
+### Dimensionality Reduction 
+-PCA Visualisation : https://setosa.io/ev/principal-component-analysis/
+
+### Hyperparameter Tuning
+- https://www.geeksforgeeks.org/hyperparameter-tuning/
+- https://www.analyticsvidhya.com/blog/2022/02/a-comprehensive-guide-on-hyperparameter-tuning-and-its-techniques/
+
+### Feature Encoding Techniques 
+- https://www.geeksforgeeks.org/feature-encoding-techniques-machine-learning/
+- https://abdullahzunorain.medium.com/encoding-techniques-in-machine-learning-0d40bc76bb48
+- https://medium.com/anolytics/all-you-need-to-know-about-encoding-techniques-b3a0af68338b
 ---
